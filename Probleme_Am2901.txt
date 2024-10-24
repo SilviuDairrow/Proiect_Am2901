@@ -1,0 +1,6 @@
+Proiect realizat de: Secan Silviu-Gabriel si Popescu Vlad
+Circuit: Am2901
+
+Problemele proiectului:
+	1)Nu este efectiv o problema, dar modului ALU_Function_Decode nu face nimic util.
+	  El are ca semnale de output semnalele de input. Este echivalent la niste fire.
